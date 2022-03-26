@@ -34,7 +34,7 @@ class _Door1ScreenState extends State<Door1Screen> {
       appBar: AppBar(
         backgroundColor: Colors.white,
         title: Text(
-          'Door1  ',
+          'Door113123123123  ',
           style: TextStyle(color: Colors.black),
         ),
         centerTitle: true,
